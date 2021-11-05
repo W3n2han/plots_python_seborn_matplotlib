@@ -2,9 +2,4 @@
 
 Xinyue Gui and Wen Zhan
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 https://github.com/W3n2han/plots_python_seborn_matplotlib/blob/main/Understand%20Data%20with%20Plots.ipynb
